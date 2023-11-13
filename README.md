@@ -18,7 +18,8 @@ Note that the original record mined from the MAG dataset is too large to be uplo
 
 - Periodical embeddings and author trajectories
   
-![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/4882f218-0fd7-4b35-adc4-313382391d9d)
+![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/35a226c7-85ff-4f63-b7f2-01a6c18eb4c6)
+
 
 
 
