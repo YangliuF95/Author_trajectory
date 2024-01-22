@@ -12,12 +12,14 @@ Note that the original record mined from the MAG dataset is too large to be uplo
 
 - Construction of author trajectory matrix based on periodical embeddings
 
-![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/b67feba9-91df-42e5-8a43-8ba7529816f6)<p style='text-align: justify;'> 
+![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/671e26c5-01d3-4eb2-8b07-cec1f8ff83eb)<p style='text-align: justify;'> 
 ***<sub>Starting from the author publication record—for example, Author 1 published four papers in four periodicals (i.e., P1, P2, P3, and P4), and Author 2 published six papers in the same four periodicals—step 1 generates ordered sequences of periodicals. In step 2, we train the periodical embeddings using the word2vec skip-gram implementation (i.e., to predict the context for a given periodical, as shown in the upper box). In step 3, we construct a trajectory matrix for each author based on the trained embeddings for each periodical. The rows represent the periodicals, and the columns represent the dimension of the embedding. The different colors in the matrix indicate different values.*** </p>
 
 - Periodical embeddings and author trajectories
   
-![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/3541524c-d5c9-4b74-8ed1-608ff29586a4)
+![image](https://github.com/YangliuF95/Author_trajectory/assets/60612969/35a226c7-85ff-4f63-b7f2-01a6c18eb4c6)
+
+
 
 
 **(a)** The two-dimensional (2D) projection of 11909 periodicals using the Pairwise Controlled Manifold Approximation Projection (PaCMAP). 
