@@ -34,12 +34,19 @@ Note that the original record mined from the MAG dataset is too large to be uplo
 
 More information about our method can be found in the following article:
 
- 
+ Yangliu Fan, Anders Blok, Sune Lehmann; Understanding scholar-trajectories across scientific periodicals. *Sci Rep* **14**, 5309 (2024). doi: [https://doi.org/10.1038/s41598-024-54693-7](https://www.nature.com/articles/s41598-024-54693-7)
   
 If you use any of the provided material for your work, please cite us as follows:
 ```
-
+@article{Author_Trajectory_2024,
+  author={Fan, Y., Blok, A. & Lehmann, S.},
+  doi={10.1038/s41598-024-54693-7}
+  journal={Scientific Reports},
+  title={Understanding scholar-trajectories across scientific periodicals},
+  year={2024}
+}
 ```
+
 
 ## License
 ![image](https://user-images.githubusercontent.com/60612969/135886472-567c603e-8001-43e3-a808-f020ba14814d.png)
